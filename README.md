@@ -1,2 +1,2 @@
 # FLO_RFM_Segmentasyon
-RFM Analizi ile Müşteri Segmentasyonu
+Customer Segmentation with RFM Analysis
